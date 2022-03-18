@@ -39,7 +39,9 @@ Note: the range value for the allele was set to 0 - 1000 because it is easier fo
 ## Results
 <p align="center">
   <img width="682" height="400" src="https://user-images.githubusercontent.com/55189926/159019825-9072a993-933b-4701-93d9-93e030f44b2b.png">
+  <img width="469" height="400" src="https://user-images.githubusercontent.com/55189926/159021584-60a1a7a6-d3f8-4c0a-a5e9-ab1449291b9d.png">
   <br>
   Result
 </p>
+
 
