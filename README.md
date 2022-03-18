@@ -34,3 +34,12 @@ Duck Duration SD | Standard Deviation Duration how long Dino Duck
 Distance Obstacle | Distance for the Dino to take action (Jump, Duck, Do Nothing)
 Distance Obstacle SD | Standard Deviation Distance for the Dino to take action (Jump, Duck, Do Nothing)
 
+![Screenshot 2022-03-18 220917](https://user-images.githubusercontent.com/55189926/159019825-9072a993-933b-4701-93d9-93e030f44b2b.png)
+
+## Results
+<p align="center">
+  <img width="682" height="400" src="https://user-images.githubusercontent.com/55189926/159019825-9072a993-933b-4701-93d9-93e030f44b2b.png">
+  <br>
+  Result
+</p>
+
