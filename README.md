@@ -8,24 +8,24 @@ Depends on the power of the computer, for my computer, I set at 200 of populatio
 ### Chromosome
 Chromosome is the 'genetic' information or a group of gene for the AI to evolve, so it can improve. In this case, there are 19 informations or gene which are:
 
-Gene | Desc
+Gene | Description
 ---|---
-Jump Rock | aa
-Duck Rock | aa
-Idle Rock | aa
-Jump Plant | aa
-Duck Plant | aa
-Idle Plant | aa
-Jump birdLo | aa
-Duck birdLo | aa
-Idle birdLo | aa
-Jump birdMid | aa
-Duck birdMid | aa
-Idle birdMid | aa
-Jump birdHi | aa
-Duck birdHi | aa
-Idle birdHi | aa
-Duck Duration | aa
-Duck Duration SD | aa
-Distance Obstacle | aa
-Distance Obstacle SD | aa
+Jump Rock | Probability to Jump over Obstacle 1 (Rock)
+Duck Rock | Probability to Duck under Obstacle 1 (Rock)
+Idle Rock | Probability to Do Nothing on Obstacle 1 (Rock)
+Jump Plant | Probability to Jump over Obstacle 2 (Plant)
+Duck Plant | Probability to Duck under Obstacle 1 (Plant)
+Idle Plant | Probability to Do Nothing on Obstacle 1 (Plant)
+Jump birdLo | Probability to Jump over Obstacle 3 (Bird Low Altitude)
+Duck birdLo | Probability to Duck under Obstacle 1 (Bird Low Altitude)
+Idle birdLo | Probability to Do Nothing on Obstacle 1 (Bird Low Altitude)
+Jump birdMid | Probability to Jump over Obstacle 4 (Bird Middle Altitude)
+Duck birdMid | Probability to Duck under Obstacle 1 (Bird Middle Altitude)
+Idle birdMid | Probability to Do Nothing on Obstacle 1 (Bird Middle Altitude)
+Jump birdHi | Probability to Jump over Obstacle 5 (Bird High Altitude)
+Duck birdHi | Probability to Duck under Obstacle 1 (Bird High Altitude)
+Idle birdHi | Probability to Do Nothing on Obstacle 1 (Bird High Altitude)
+Duck Duration | Duration how long Dino Duck
+Duck Duration SD | Standard Deviation Duration how long Dino Duck
+Distance Obstacle | Distance for the Dino to take action (Jump, Duck, Do Nothing)
+Distance Obstacle SD | Standard Deviation Distance for the Dino to take action (Jump, Duck, Do Nothing)
