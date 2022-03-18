@@ -36,6 +36,21 @@ Distance Obstacle SD | Standard Deviation Distance for the Dino to take action (
   
 Note: the range value for the allele was set to 0 - 1000 because it is easier for me to initialise the Dino Chromosome.
 
+### Fitness Function
+The formula to determin the best chromosome is:
+<p align="center">
+  <img width="266" height="100" src="https://user-images.githubusercontent.com/55189926/159027072-eee6f9e7-f860-41d0-aa79-cf6427b8070d.png">
+</p>
+
+### Parent Selection
+Top 20 Population were picked at the end of the generation. The 20 best scorer will be selected and the rest will be eliminated.
+
+### Crossover
+Similar to reproduction, two chromosome will become parent and perform crossover (exchanging genetics information). In the end, it will produce 2 children. N Point crossover were implmented for crossover. If I still remember, the parent will be kept after the crossover in order to secure the best genetics.
+
+### Mutation
+After the crossover, there is a chance for the children to mutate. The mutation rate is 0.1, meaning if there is 180 children, there may be around 18 children that will have mutation. This adds the randomness in this algorithm, hoping that we can get better gene, knowing that there is a risk that we can get terrible gene.
+
 ## Results
 <p align="center">
   <img width="682" height="400" src="https://user-images.githubusercontent.com/55189926/159019825-9072a993-933b-4701-93d9-93e030f44b2b.png">
@@ -44,4 +59,4 @@ Note: the range value for the allele was set to 0 - 1000 because it is easier fo
   Result
 </p>
 
-
+For this run, it has been run for over 50 generations. From here, we can see the there is an increase of score, meaning that the Dino gets better over the course of whole run. On average score, we can see that there are times that the score of the dino falls. This is because it may have lost its valuable gene to get better score. It can also be due to mutation, where the best choromosome of the generation's gene got altered to even worse.
