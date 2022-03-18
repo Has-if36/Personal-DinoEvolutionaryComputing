@@ -1,5 +1,5 @@
 ## A Personal Project
-After getting lectures from Evolutionary Computing Subject. I would like to create a new project that uses Evolutionary Computing Algorithm. This project has been done quite some time, I might forget few things from the lecture. Since I already made Dino game with [Reinforcement Learning] (https://github.com/Has-if36/BITI2223-ML-ReinforcementLearning), why not just make same game but with different algorithm? But this time, it has a more defined shapes.
+After getting lectures from Evolutionary Computing Subject. I would like to create a new project that uses Evolutionary Computing Algorithm. This project has been done quite some time, I might forget few things from the lecture. Since I already made Dino game with [Reinforcement Learning] (https://github.com/Has-if36/BITI2223-ML-ReinforcementLearning) , why not just make same game but with different algorithm? But this time, it has a more defined shapes.
 
 ## Evolutionary Computing Algorithm
 ### Population
